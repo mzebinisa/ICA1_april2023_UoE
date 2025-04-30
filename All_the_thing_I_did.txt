@@ -1,0 +1,59 @@
+commit f3f178e788c972f49791c8d01e053be87196ad83
+Author: B116564-2022 <*>
+Date:   Fri Apr 7 13:44:28 2023 +0100
+
+    Something final
+
+commit f679efb07066e815604d11a8b827659eac95c129
+Author: B116564-2022 <*>
+Date:   Fri Apr 7 09:12:14 2023 +0100
+
+    Fixed the merging issue, now merging by gene names,
+
+commit f76dff3c93bd0d22168872fd74eb96d73e3a9586
+Author: B116564-2022 <*>
+Date:   Fri Apr 7 08:54:24 2023 +0100
+
+    Now merging side to side, as said in FAQs
+
+commit 5dc3e9d57caf33c5ce0fb6d1bb4dc4ef1b64c05d
+Author: B116564-2022 <*>
+Date:   Fri Apr 7 08:45:32 2023 +0100
+
+    Seems like concatenating?
+
+commit 46cf2e967e72ef94b67f81e17001443f55ffe00b
+Author: B116564-2022 <*>
+Date:   Fri Apr 7 08:08:34 2023 +0100
+
+    Seems like grouping the files but still not concatenating into one genecounts files. How to do it(
+
+commit f3f5726074c115e1c9f578cbca148f96169e0756
+Author: B116564-2022 <*>
+Date:   Wed Apr 5 18:37:04 2023 +0100
+
+    now i know how to use bedtools multicov and intersect All working
+
+commit c4209ecaa31b9537e131eb225dcbd298e4bdd727
+Author: B116564-2022 <*>
+Date:   Wed Apr 5 15:26:01 2023 +0100
+
+    Trying to generate counts with bedtools multicov. Still confused as it says there are Error: Type checker found wrong number of fields while tokenizing data line.
+
+commit 575e8edbf0a01444ff017e7dc74c563f3409ecf6
+Author: B116564-2022 <*>
+Date:   Wed Apr 5 13:06:36 2023 +0100
+
+    Now doing fastqc and bowtie asking first about the directory from the user with some hint))
+
+commit 17014d401383687e02b3ecbe3c8e81d069bcb229
+Author: B116564-2022 <*>
+Date:   Tue Apr 4 15:22:17 2023 +0100
+
+    Extracting the files from gz
+
+commit d9e041ac8df2beb039ed3d8a579a391813d65320
+Author: B116564-2022 <*>
+Date:   Mon Apr 3 13:53:21 2023 +0100
+
+    Initial commit
